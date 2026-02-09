@@ -1,0 +1,7 @@
+{
+  "name": "Nihongo Master",
+  "description": "An advanced Japanese vocabulary learning dashboard with AI-powered study notes and simulated handwriting OCR analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
